@@ -2,8 +2,9 @@ body {
     background-color: lightpink;
 }
 
-nav {
-   text-align: center;
+
+ul {
+    display: flex;
 }
 
 #contenedor-1 {
